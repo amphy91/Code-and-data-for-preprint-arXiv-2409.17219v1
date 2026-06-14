@@ -1,5 +1,5 @@
 # Code-and-data-for-Fermionic-parton-theory-of-Rydberg-Z2-quantum-spin-liquid-
-This repository contains the codes and data files for the paper "Fermionic parton theory of Rydberg Z₂ quantum spin liquid"
+This repository contains the codes and data files for the paper "Fermionic parton theory of Rydberg Z₂ quantum spin liquid" (Preprint: arXiv:2409.17219v1)
 
 Contents:
 1. The file "Ansatze_Table-I.nb" contains the mathematica notebook for calculating the symmetry allowed mean-field parameters given in Table I using the PSG solutions given in the supplimental information.
