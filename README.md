@@ -1,4 +1,4 @@
-# Code-and-data-for-Fermionic-parton-theory-of-Rydberg-Z-quantum-spin-liquid-
+# Code-and-data-for-Fermionic-parton-theory-of-Rydberg-Z2-quantum-spin-liquid-
 This repository contains the codes and data files for the paper "Fermionic parton theory of Rydberg Z₂ quantum spin liquid"
 
 Contents:
